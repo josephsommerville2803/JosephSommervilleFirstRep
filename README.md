@@ -56,33 +56,7 @@ Lastly, DJ Mag, is a monthly magazine all about the world of electronic music an
 </body>
 </html>
 
-body {
-  font-family: system-ui;
-  background: #f06d06;
-  color: white;
-  text-align: center;
-}
-h1{
-  text-align: center;
-  color: black;
-  border-style: dotted solid;
-}
 
-
- }
-#p1{
-  text-align: left;
-}
-ol{
-  text-align: left;
-}
-
-h3{
-  text-align: left;
-}
-#div1{
-  border-style: outset;
-}
 
 
 [index.html](https://github.com/user-attachments/files/22519414/index.html)
