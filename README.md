@@ -6,5 +6,3 @@
 
 
 
-[index.html](https://github.com/user-attachments/files/22519414/index.html)
-[style.css](https://github.com/user-attachments/files/22519416/style.css)
